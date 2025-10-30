@@ -1,0 +1,5 @@
+logs/*
+conversations/*
+.venv/*
+services/__pycache__/*
+.env
